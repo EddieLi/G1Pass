@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Names</key>
+	<array>
+		<string>Disclaimer</string>
+		<string>Contact</string>
+	</array>
+	<key>Description</key>
+	<array>
+		<string>This app can be viewed in two languages (Chinese and English) and is solely developed by Eddie Li. It is not for commercial use. It is only used to help new immigrants to better understand the driving rules and remind the drivers of these rules again. Please contact me if you have any questions. Thanks for your understanding.</string>
+		<string>Email: eddies.appspot@gmail.com                                 Website: www.eddieli.org</string>
+	</array>
+	<key>Hour</key>
+	<array>
+		<string>Mon-Fri 8:30 a.m. to 5 p.m.  </string>
+		<string>Mon-Fri 8:30 a.m. to 5 p.m.  </string>
+		<string>Mon-Fri 8:30 a.m. to 5 p.m.  </string>
+		<string>Mon-Sat 8:30 a.m. to 5 p.m.  </string>
+		<string>Mon-Sat 8:30 a.m. to 5 p.m.  </string>
+		<string>Mon-Fri 8:30 a.m. to 5 p.m.  </string>
+		<string>Mon-Sat 8:30 a.m. to 5 p.m.  </string>
+		<string>Mon-Fri 8:30 a.m. to 5 p.m.  </string>
+	</array>
+	<key>Street</key>
+	<array>
+		<string>777 Bay St. ( at College St. ) at TD Bank Lower Level</string>
+		<string>1448 Lawrence Ave E., Unit 15 North York, ON M4A 2S8 </string>
+		<string>37 Carl Hall Road Toronto, ON M3K 2E2</string>
+		<string>91  Rylander  Blvd., Unit #109A Scarborough, ON M1B 5M5 </string>
+		<string>5555 Eglinton Ave. W. Etobicoke, ON M9C 5M1</string>
+		<string>1 Henderson Drive, Unit 4 Aurora, ON L4G 4J7 </string>
+		<string>59 First Gulf Blvd, Unit #9 Brampton, ON L6W 4P9</string>
+		<string>200 John St. West Oshawa, ON L1J 2B4</string>
+	</array>
+	<key>District</key>
+	<array>
+		<string>Downtown Toronto </string>
+		<string>Toronto Metro East</string>
+		<string>Toronto Downs view</string>
+		<string>Toronto Port Union</string>
+		<string>Toronto Etobicoke </string>
+		<string>Aurora </string>
+		<string>Brampton</string>
+		<string>Oshawa</string>
+	</array>
+	<key>Qpic</key>
+	<array>
+		<string></string>
+		<string></string>
+		<string>
+
+
+
+</string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string></string>
+		<string>WITHIN 150 M (500 FT.) OF THE APPROACH OF ANOTHER VEHICLE</string>
+	</array>
+	<key>Sanswers</key>
+	<array>
+		<string>STOP AT ALL TIMES</string>
+		<string>YOU MUST GIVE THE RIGHT-OF-WAY</string>
+		<string>YOU MUST NOT MAKE &quot; U &quot; TURN </string>
+		<string>TWO SEPARATE ROADS BY MEDIAN AHEAD, KEEP TO THE RIGHT</string>
+		<string>STOP SIGN AHEAD</string>
+		<string>YOU MUST NOT MAKE A LEFT TURN</string>
+		<string>DESTINATION BOARD</string>
+		<string>TRAFFIC SIGNS AHEAD</string>
+		<string>I AM TURNING LEFT</string>
+		<string>RIGHT LANE ENDS</string>
+		<string>I AM SLOWING OR STOPPING</string>
+		<string>ROAD AHEAD SLIPPERY WHEN WET</string>
+		<string>DANGER, SHARP TURN </string>
+		<string>WINDING ROAD</string>
+		<string>PAVEMENT NARROWS </string>
+		<string>YOU ARE APPROACHING A RAILROAD CROSSING</string>
+		<string>SLOW MOVING VEHICLE </string>
+		<string>THE SIGN WARNS OF ROAD WORK OPERATION AHEAD </string>
+		<string>PASS TO RIGHT OF TRAFFIC ISLAND</string>
+		<string>LANE USAGE SIGN MEANING RIGHT TURN ONLY</string>
+		<string>MAXIMUM SPEED OF 50 KM PER HOUR AHEAD </string>
+		<string>THIS SIGN MEANS NO STOPPING</string>
+		<string>I AM TURNING RIGHT</string>
+		<string>KEEP OUT (DO NOT ENTER)</string>
+		<string>SCHOOL ZONE SIGN</string>
+		<string>BUMP OR UNEVEN PAVEMENT AHEAD</string>
+		<string>WARNS OF A STEEP HILL AHEAD</string>
+		<string>REGULATORY SIGN </string>
+		<string>PROHIBITED SIGN </string>
+		<string>PERMISSIVE SIGN </string>
+		<string>ROAD AHEAD TURNS RIGHT THEN LEFT</string>
+		<string>DIVIDED HIGHWAY ENDS</string>
+		<string>NO RIGHT TURNS ON RED </string>
+		<string>PASSING ARE NOT ALLOWED </string>
+		<string>TWO-WAY LEFT TURN LANE </string>
+		<string>NARROW BRIDGE AHEAD</string>
+		<string>INTERSECTION AHEAD THE ARROW SHOWS WHICH DIRECTION OF TRAFFIC HAS THE RIGHT-OF-WAY </string>
+		<string>TRUCK ENTRANCE ON THE RIGHT SIDE AHEAD</string>
+		<string>BY WHEEL-CHAIR ONLY OR DISABLED PERSON PARKING (HANDICAP) </string>
+		<string>NO PARKING </string>
+		<string>SHARE THE ROAD WITH ON COMING TRAFFIC</string>
+		<string>THIS LANE IS RESERVED FOR SPECIFIC TYPES OF VEHICLES DURING CERTAIN TIMES AND DAYS SUCH AS BUSES TAXIS BICYCLES AND VEHICLES WITH MORE THAN THREE PASSENGERS</string>
+		<string>DEER REGULARLY CROSS, BE ALERT FOR ANIMALS </string>
+		<string>DO NOT STAND OR STOP IN THIS AREA</string>
+		<string>YOU MUST EXIT IF YOU REMAIN IN RIGHT HAND LANE</string>
+		<string>RED LIGHT CAMERA AT INTERSECTION </string>
+		<string>DO NOT BLOCK INTERSECTION</string>
+		<string>WHEN A SCHOOL BUS ARM SWINGS OUT WITH RED LIGHTS FLASHING, YOU MUST STOP AND YOU ARE PROHIBITED FROM PASSING</string>
+		<string>TWO OR MORE PASSENGERS MUST BE IN THE VEHICLE TO USE THIS LANE ON THE HIGHWAY (HOB SING)</string>
+		<string>A HIDDEN SCHOOL BUS STOP AHEAD, SLOW DOWN, DRIVE WITH EXTRA CAUTION WATCH FOR CHILDREN AND SCHOOL BUSES WITH FLASHING RED LIGHTS </string>
+		<string>NOT MORE THAN 1 MINUTE IDLING</string>
+		<string>DURING SCHOOL HOURS WHEN THE YELLOW LIGHTS ARE FLASHING, FOLLOW THE SPEED LIMIT SHOWN</string>
+		<string>DO NOT PASS ANY VEHICLES WITHIN 30 METERS OF A PEDESTRIAN CROSSING</string>
+	</array>
+	<key>Signs</key>
+	<array>
+		<string>s1.gif</string>
+		<string>s2.gif</string>
+		<string>s3.gif</string>
+		<string>s4.gif</string>
+		<string>s5.gif</string>
+		<string>s6.gif</string>
+		<string>s7.gif</string>
+		<string>s8.gif</string>
+		<string>s9.jpg</string>
+		<string>s10.gif</string>
+		<string>s11.jpg</string>
+		<string>s12.gif</string>
+		<string>s13.gif</string>
+		<string>s14.gif</string>
+		<string>s15.gif</string>
+		<string>s16.gif</string>
+		<string>s17.gif</string>
+		<string>s18.gif</string>
+		<string>s19.gif</string>
+		<string>s20.gif</string>
+		<string>s21.gif</string>
+		<string>s22.gif</string>
+		<string>s23.jpg</string>
+		<string>s24.gif</string>
+		<string>s25.gif</string>
+		<string>s26.gif</string>
+		<string>s27.gif</string>
+		<string>s28.gif</string>
+		<string>s29.gif</string>
+		<string>s30.gif</string>
+		<string>s31.gif</string>
+		<string>s32.gif</string>
+		<string>s33.gif</string>
+		<string>s34.gif</string>
+		<string>s35.gif</string>
+		<string>s36.gif</string>
+		<string>s37.gif</string>
+		<string>s38.gif</string>
+		<string>s39.gif</string>
+		<string>s40.gif</string>
+		<string>s41.gif</string>
+		<string>s42.jpg</string>
+		<string>s43.gif</string>
+		<string>s44.gif</string>
+		<string>s45.jpg</string>
+		<string>s46.jpg</string>
+		<string>s47.jpg</string>
+		<string>s48.jpg</string>
+		<string>s49.jpg</string>
+		<string>s50.jpg</string>
+		<string>s51.jpg</string>
+		<string>s52.jpg</string>
+		<string>s53.jpg</string>
+	</array>
+	<key>Qanswers</key>
+	<array>
+		<string>SLOW DOWN AND PROCEED WITH CAUTION </string>
+		<string>PULL TO THE RIGHT AS FAR AS POSSIBLE
+AND STOP</string>
+		<string>WITHIN 150 M (500 FT.) OF THE APPROACH OF ANOTHER VEHICLE</string>
+		<string>STOP, AND WHEN IT IS SAFE TO DO SO, PROCEED </string>
+		<string>50 KM/H (30 M.P.H.)</string>
+		<string>STOP, PROCEED ONLY WHEN THE SIGNAL TURNS GREEN AND WHEN THE WAY IS CLEAR </string>
+		<string>ACCELERATE QUICKLY TO FREEWAY SPEED AND MERGE WITH FREEWAY TRAFFIC </string>
+		<string>PERSONS (PASSENGER)</string>
+		<string>IMMEDIATELY TO THE RIGHT OF CENTER LINE OF THE ROADWAY</string>
+		<string>PEDESTRIANS CROSSING WITH THE LIGHT</string>
+		<string>CLOSE TO THE LEFT SIDE OF THE ROADWAY</string>
+		<string>STOP 2 M (6 FT.) BEHIND REARMOST DOOR WHEEL PASSENGERS ARE GETTING ON OFF, AND PROCEED ONLY WHEN IT SAFE TO DO SO </string>
+		<string>STOP PROCEED ONLY WHEN IT IS SAFE TO DO SO </string>
+		<string>STOP, SIGNAL, MAKE THE TURN SO AS NOT TO INTERFERE WITH OTHER TRAFFIC, INCLUDING PEDESTRIANS</string>
+		<string>CLOSE TO THE RIGHT-HAND SIDE OF THE ROADWAY</string>
+		<string>STOP IF STOP CANNOT BE MADE SAFELY PROCEED WITH CAUTION</string>
+		<string>NOT OPERATE A MOTOR VEHICLE UNDER ANY CONDITIONS </string>
+		<string>YES</string>
+		<string>THE ONE APPROACHING FROM THE RIGHT</string>
+		<string>IS PERMITTED WHEN THE STREET OR HIGHWAY HAS TWO OR MORE LANES FOR TRAFFIC IN THE DIRECTION YOU ARE TRAVELLING </string>
+		<string>BETWEEN HALF AN HOUR BEFORE SUNSET TO HALF AN HOUR AFTER SUNRISE AND AT ANY OTHER TIME YOU CANNOT SEE CLEARLY FOR A DISTANCE OF 150 M (500 FT.)</string>
+		<string>ONLY IF PASSENGERS ARE UNDER THE AGE OF SIXTEEN</string>
+		<string>WITHIN 60 M (200 FT.)</string>
+		<string>SLOW DOWN, STOP IF NECESSARY, AND YIELD RIGHT-OF-WAY</string>
+		<string>0.08 %</string>
+		<string>PROCEED WITH CAUTION IN DIRECTION OF ARROW, YIELDING RIGHT-OF-WAY TO PEDESTRIANS AND OTHER TRAFFIC</string>
+		<string>$1000 </string>
+		<string>YOU MAY TURN TO THE LEFT/RIGHT OR PROCEED STRAIGHT IF THE WAY IS CLEAR</string>
+		<string>THE PEDESTRIAN</string>
+		<string>1 YEAR </string>
+		<string>SNOW REMOVAL EQUIPMENT</string>
+		<string>REPORT THE ACCIDENT AT ONCE TO THE NEAREST PROVINCIAL OR MUNICIPAL POLICE OFFICER</string>
+		<string>60 M (200 FT.)</string>
+		<string>WITHIN 6 DAYS</string>
+		<string>AT ONCE </string>
+		<string>30 M (9100 FT.)</string>
+		<string>(ANY OR ALL)UPON A CURVE OR ON A HILL WHERE THERE IS A CLEAR VIEW OF LESS THAN 150 M (500 FT.) IN EITHER DIRECTION + ON A RAILWAY CROSSING OR WITHIN 30 M (100 FT.) OF A RAILWAY CROSSING + WITHIN 150 M (500 FT.) OF A BRIDGE, VIADUCT OR TUNNEL IF DRIVER&apos;S VIEW IS OBSTRUCTED
+2, ON A RAILWAY CROSSING OR WITHIN 30 M (100 FT.) OF A RAILWAY CROSSING
+3, WITHIN 150 M (500 FT.) OF A BRIDGE, VIADUCT OR TUNNEL IF DRIVER&apos;S VIEW IS OBSTRUCTED</string>
+		<string>(ANY OR  ALL) - A FINE OF $1,000-$5000 OR IMPRISONMENT FOR SIX MONTHS OR BOTH + IMPOUNDMENT OF THE MOTOR VEHICLE BEING OPERATED FOR A MINIMUM OF 45 DAYS + AN ADDITIONAL 6-MONTH PERIOD OF SUSPENSION OF DRIVING PRIVILEGE</string>
+		<string>STOP NOT LESS THAN 5 M (1.5 FT.) FROM THE NEAREST RAIL</string>
+		<string>NO INSURANCE PROTECTION WHATEVER </string>
+		<string>(ANY OR ALL) FOR FAILURE TO ATTEND FOR RE-EXAMINATION + FOR POSSESSION OF AN ALTERED DRIVER&apos;S LICENCE + FOR FAILURE TO SATISFACTORILY COMPLETE A DRIVER RE-EXAMINATION</string>
+		<string>(ANY OR ALL) IF THE MOTOR VEHICLE IS INSURED-A LIABILITY INSURANCE CARD + THE MOTOR VEHICLE OWNERSHIP + IF HE/SHE IS OPERATING A MOTOR VEHICLE-A VALID DRIVER&apos;S LICENCE</string>
+		<string>NEVER</string>
+		<string>OBEY THE POLICEMAN&apos;S SIGNAL AND THROUGH AT ONCE</string>
+		<string>SUSPENSION OF LICENCE FOR 30 DAYS</string>
+		<string>STOP BEFORE ENTERING THE INTERSECTION AND WAIT UNTIL TRAFFIC AHEAD MOVES ON</string>
+		<string>STOP UNTIL THE BUS PROCEEDS OR THE SIGNAL LIGHTS ARE NO LONGER FLASHING</string>
+		<string>WHEN 9 DEMERIT POINTS HAVE BEEN ACCUMULATED </string>
+		<string>IF A DRIVER FAILS TO GIVE SATISFACTORY REASONS WHY THEIR LICENCE SHOULD NOT BE SUSPENDED</string>
+		<string>AUTOMATICALLY, AND FOR 30 DAYS FROM RECEIPT OF LICENCE</string>
+		<string>REDUCED TO 7 POINTS</string>
+		<string>(ALL) NOTIFY THE MINISTRY OF THE CHANG OF OWNERSHIP WITHIN SIX DAYS DATE OF SALE + GO WITH THE BUYER TO A VEHICLE LICENCE ISSUING OFFICE TO CARRY OUT THE CHANGE OF OWNERSHIP + IF SELLING THE VEHICLE WITHOUT A SAFETY STANDARDS CERTIFICATE, YOU MUST RETURN THE VEHICLE LICENCE PLATES AND MOTOR VEHICLE PERMIT TO A VEHICLE LICENCE-ISSUING OFFICE AND OBTAIN AN UNFIT VEHICLE PERMIT IN THE BUYER&apos;S NAME</string>
+		<string>STOP WITHIN A SAFE DISTANCE </string>
+		<string>GIVING PROPER SIGNAL AND LOOKING TO MAKE SURE THE MOVE CAN BE MADE SAFELY</string>
+		<string>3 METERS (10 FT.)</string>
+		<string>DRIVING TOO FAST </string>
+		<string>FOR PARKING ONLY</string>
+		<string>PUMP THE BRAKE UNTIL YOU COME TO A STOP</string>
+		<string>LOW BEAM HEADLIGHTS</string>
+		<string>TUN YOUR FRONT WHEELS TO THE RIGHT AND SET YOUR PARKING BRAKE </string>
+		<string>MOVE TO THE RIGHT AND ALLOW SUCH VEHICLE TO PASS</string>
+		<string>TAKE FOOT OFF GAS PEDAL, TURN BACK WHEN VEHICLE HAS SLOWED</string>
+		<string>THREE CAR LENGTHS BEHIND THE OTHER VEHICLE</string>
+		<string>80 KILOMETERS (50 MILES) AN HOUR</string>
+		<string>CHECK OTHER TRAFFIC, SIGNAL AND PULL FORM CURB WHEN IT IS SAFE TO DO SO</string>
+		<string>GEAR DOWN AND USE MOTOR TO ASSIST IN BRAKING </string>
+		<string>MEETING OR FOLLOWING ANOTHER VEHICLE</string>
+		<string>YOU CANNOT SEE AS FAR AHEAD AT NIGHT</string>
+		<string>ARM OUT AND DOWN</string>
+		<string>LOOK SLIGHTLY TO THE RIGHT HAND SIDE </string>
+		<string>NOT PASS ANY CAR STOPPED TO ALLOW A PEDESTRIAN TO CROSS </string>
+		<string>PASS IF THE WAY IS CLEAR</string>
+		<string>ALWAYS KEEP WELL TO THE RIGHT</string>
+		<string>THERE IS NO SIGN SAYING NOT TO</string>
+		<string>IT IS UNSAFE TO OVERTAKE AND PASS</string>
+		<string>YIELD RIGHT-OF-WAY TO ALL VEHICLES APPROACHING ON THE HIGHWAY </string>
+		<string>(ALL) CONCENTRATE ON STEERING  + TAKE YOUR FOOT OFF THE GAS PEDAL TO DOWN  + BRING THE VEHICLE TO A STOP OFF THE ROAD</string>
+		<string>PASS WITH CAUTION </string>
+		<string>TREAT IT AS A FOUR WAY STOP SIGN</string>
+		<string>COST YOU 6 DEMERIT POINTS AND A FINE OF UP TO $1000</string>
+		<string>TWO YEAR</string>
+		<string>STEER IN THE DIRECTION OF THE SKID </string>
+		<string>(ALL) GRIP THE STEERING WHEEL FIRMLY + TAKE YOUR FOOT OFF GAS PEDAL TO SLOW DOWN AND AVOID HEAVY BREAKING + WHEN THE VEHICLE IS UNDER CONTROL STEER BACK TO THE ROAD </string>
+		<string>60 DAYS</string>
+		<string>IS AN EXPRESS TOLL ROUTE (PAID TOLL HIGHWAY?)</string>
+		<string>30 DAYS</string>
+		<string>IN ONTARIO IT IS ILLEGAL TO TALK ON THE CELLULAR WHILE DRIVING </string>
+		<string>FOUR YEARS</string>
+		<string>YOU WILL BE CHARGED WITH CARELESS DRIVING AND LOSE 6 DEMERIT POINTS</string>
+		<string>0.00%</string>
+		<string>WINTER DRIVING</string>
+		<string>BE Ned BETWEEN $1000 TO $5000</string>
+		<string>90 DAYS </string>
+		<string>4 POINTS</string>
+		<string>(ALL)PUMP THE BRAKE PEDAL + APPLY THE PARKING BRAKE GENTLY BUT GRIMLY  + KEEP YOUR HAND ON THE RELEASE BUTTON (OF THE PARKING BRAKE)</string>
+		<string>0.05%</string>
+		<string>45 DAYS </string>
+		<string>(ALL) MOVE INTO ANOTHER LANE WHEN IT IS SAFE TO DO SO + SLOW DOWN SLIGHTLY TO INCREASE THE SPACE IN FRONT OF YOUR CAR + PULL OVER TO LET THE TAILGATER PASS</string>
+		<string>PASS JUST AS YOU WOULD WITH ANOTHER CAR</string>
+		<string>THERE WILL ALWAYS BE A BLIND SPOT IN YOUR MIRRORS, NO MATTER HOW YOU ADJUST THEM </string>
+		<string>THE DAMAGE IS OVER $1000 AND IF SOMEONE HAS BEEN HURT OR KILLED </string>
+		<string>1 PASSENGER AGED 19 OR UNDER</string>
+		<string>3 PASSENGERS AGED 19 OR UNDER</string>
+		<string>4YEARS </string>
+		<string>YOU CANNOT STOP WITHIN THE DISTANCE THAT YOU CAN SEE </string>
+	</array>
+	<key>Questions</key>
+	<array>
+		<string>1. AT AN INTERSECTION WHERE IS FLASHING AMBER (YELLOW) TRAFFIC LIGHT, YOU MUST:</string>
+		<string>2. WHEN ON STREETS DESIGNED FOR TWO-WAY TRAFFIC, YOU HEAR THE SIREN OF EMERGENCY VEHICLE, WHAT DOES THE LAW REQUIRE YOU TO DO?</string>
+		<string>3. WHEN LIGHTS ARE REQUIRED, DRIVERS ARE REQUIRED TO USE LOW BEAM HEADLIGHTS?</string>
+		<string>4. UPON APPROACHING A STOP SIGN, A DRIVER MUST:</string>
+		<string>5. UNLESS OTHERWISE POSTED, THE MAXIMUM SPEED LIMIT ALLOWED IN CITIES, TOWN, VILLAGES AND BUILT-UP-AREA IS:</string>
+		<string>6. WHEN THE TRAFFIC SIGNAL LIGHT FACING YOU IS RED AND YOU INTEND TO GO STRAIGHT THROUGH THE INTERSECTION, WHAT MUST YOU DO?</string>
+		<string>7. WHEN ENTERING A FREEWAY YOU SHOULD:</string>
+		<string>8. WHILE TRAVELLING ON A HIGHWAY, THE DRIVER OF A MOTOR VEHICLE IS NOT PERMITTED TO CARRY, IN A HOUSE OR BOAT TRAILER:</string>
+		<string>9. ON A ROADWAY WHERE TRAFFIC IS MOVING IN BOTH DIRECTIONS, IN WHAT POSITION MUST YOU BE BEFORE MAKING A LEFT TURN?</string>
+		<string>10. WHICH OF THE FOLLOWING HAS THE RIGHT-OF-WAY OVER ALL OTHERS AT INTER SECTION WHEN THE SIGNAL LIGHT IS GREEN?</string>
+		<string>11. IN WHAT POSITION ON ROADWAY MUST YOU BE BEFORE MAKING A LEFT TURN FROM A ONE-WAY TRAFFIC STREET? </string>
+		<string>12. WHEN A STREETCAR STOPS TO PICK UP OR DISCHARGE PASSENGERS, WHERE THERE IS NO SAFETY ZONE, WHAT DOES THE LAW REQUIRE YOU TO DO BEFORE PASSING THE STREETCAR? </string>
+		<string>13. A FLASHING RED SIGNAL LIGHT AT AN INTERSECTION MEANS? </string>
+		<string>14. WHEN A RIGHT TURN AGAINST A RED SIGNAL LIGHT IS PERMITTED, WHAT DOES THE LAW REQUIRE YOU TO DO BEFORE ENTERING THE INTERSECTION AND MAKING THE TURN?</string>
+		<string>15. IN WHAT LANE OF TRAFFIC SHOULD YOU DRIVE WHEN YOU INTEND TO MAKE A RIGHT-HAND TURN?</string>
+		<string>16. IF THE SIGNAL LIGHT CHANGES FROM GREEN TO AMBER AS YOU APPROACH AN INTERSECTION WHAT SHOULD YOU DO?</string>
+		<string>17. A PERSON WHOSE DRIVER&apos;S LICENSE IS UNDER SUSPENSION, MAY</string>
+		<string>18. IN ONTARIO, THERE IS A SEAT BELT LAW</string>
+		<string>19. WHEN TWO CARS REACH AN UNCONTROLLED INTERSECTION AT APPROXIMATELY THE SAME TIME THE RIGHT-OF-WAY SHOULD BE GIVEN TO :</string>
+		<string>20. WHEN IT IS SAFE TO DO SO, PASSING OTHER VEHICLES ON THE RIGHT SIDE </string>
+		<string>21. WHEN DOES THE LAW REQUIRE LIGHTS ON VEHICLES TO BE TURNED ON ? </string>
+		<string>22. ARE DRIVERS RESPONSIBLE FOR THEIR PASSENGERS BUCKLING UP? </string>
+		<string>23. WHEN LIGHTS ARE REQUIRED, DRIVERS MUST USE LOWER BEAM HEADLIGHTS WHEN FOLLOWING ANOTHER VEHICLE:</string>
+		<string>24. UPON APPROACHING A YIELD-SIGN, WHAT DOES THE LAW REQUIRE YOU TO DO ? </string>
+		<string>25. AT WHAT LEVEL OF ALCOHOL IN THE BLOOD CAN YOU BE CONVICTED OF BEING AN IMPAIRED DRIVER ?</string>
+		<string>26. WHEN A RED SIGNAL LIGHT WITH A GREEN ARROW IS SHOWN AT AN INTERSECTION IT MEANS</string>
+		<string>27. EVERY ACCIDENT MUST BE REPORTED TO THE POLICE WHERE THERE IS PERSONAL INJURY OR WHEN THE DAMAGE EXCEEDS:</string>
+		<string>28. A FLASHING GREEN LIGHT AT AN INTERSECTION, WHERE TURNS TO THE LEFT AND RIGHT ARE PERMITTED, MEANS:</string>
+		<string>29. IF A TRAFFIC SIGNAL CHANGES WHILE A PEDESTRIAN IS STILL IN THE STREET, WHICH OF THE FOLLOWING HAS THE RIGHT-OF-WAY?</string>
+		<string>30. IF YOU ARE CONVICTED OF DRINKING AND DRIVING, YOU WILL LOSE YOUR DRIVER&apos;S LICENCE ON THE FIRST OFFENCE FOR :</string>
+		<string>31. A FLASHING BLUE LIGHT MOUNTED ON MOTOR VEHICLE INDICATES :</string>
+		<string>32. IF YOU ARE INVOLVED IN AN ACCIDENT IN WHICH SOMEONE IS INJURED YOU MUST:</string>
+		<string>33. EXCEPT WHEN PASSING, WHAT DISTANCE MUST BE MAINTAINED BETWEEN COMMERCIAL VEHICLES TRAVELING IN THE SAME DIRECTION ON THE HIGHWAY OUTSIDE A CITY, TOWN OR VILLAGE?</string>
+		<string>34. HOW SOON AFTER A LICENSED DRIVER CHANGES HIS/HER NAME OR ADDRESS, IS HE/SHE REQUIRED TO NOTIFY THE MINISTRY OF TRANSPORTATION AND COMMUNICATIONS?</string>
+		<string>35. IF YOU ARE INVOLVED IN A REPORTABLE ACCIDENT HOW SOON MUST YOU MAKE A REPORT TO YOUR NEAREST PROVINCIAL OR MUNICIPAL POLICE OFFICER? </string>
+		<string>36. WHEN A TRUCK BECOMES DISABLED ON THE HIGHWAY, WHERE THE SPEED LIMIT IS IN EXCESS OF 60 KM/H FLARES OR REFLECTORS MUST BE PLACED APPROXIMATELY WHAT DISTANCE AHEAD OF AND TO THE REAR OF THIS DISABLED VEHICLE? </string>
+		<string>37. UNDER WHICH OF THE FOLLOWING CONDITIONS IS IT DANGEROUS AND UNLAWFUL TO MAKE A &quot;U&quot; TURN? </string>
+		<string>38. TO WHAT PENALTIES IS A DRIVER LIABLE WHO IS CONVICTED OF DRIVING WHILE SUSPENDED:</string>
+		<string>39. WHEN APPROACHING A RAILWAY CROSSING AT WHICH AN ELECTRICAL OR MECHANICAL SIGNAL DEVICE IS WARNING OF THE APPROACH OF A TRAIN YOU MUST:</string>
+		<string>40. WHAT INSURANCE PROTECTION DOES THE OWNER GET WHO PAYS THE UNINSURED MOTOR VEHICLE FEE?</string>
+		<string>41. UNDER WHAT CIRCUMSTANCES MAY A DRIVER&apos;S LICENCE BC CANCELLED? </string>
+		<string>42. WHAT DOCUMENTS MAY A POLICE OFFICER REQUIRE A MOTOR VEHICLE OWNER TO PRODUCE?</string>
+		<string>43. WHEN MAY YOU LEND YOUR DRIVER&apos;S LICENCE?</string>
+		<string>44. WHEN APPROACHING AN INTERSECTION WHERE A TRAFFIC SIGNAL LIGHT IS RED AND A POLICEMAN MOTIONS YOU TO GO THROUGH, YOU SHOULD </string>
+		<string>45. WHICH OF THE FOLLOWING PENALTIES CAN THE COURT IMPOSE ON A PERSON CONVICTED OF DRIVING 50 KM/H (30 M.P.H.?) OR MORE OVER THE SPEED LIMIT /H</string>
+		<string>46. WHEN APPROACHING AN INTERSECTION AND YOU NOTICE THE ROADWAY BEYOND THE INTERSECTION IS BLOCKED WITH TRAFFIC, YOU SHOULD:</string>
+		<string>47. A &quot;SCHOOL BUS&quot; , WITH RED SIGNAL LIGHTS FLASHING , STOPS ON A HIGHWAY THAT HAS NO MEDIAN STRIP. WHAT DOES THE LAW REQUIRE YOU TO DO WHEN MEETING OR OVERTAKING THE BUS ? </string>
+		<string>48. A DRIVER MAY BE REQUIRED TO ATTEND AN INTERVIEW AND RE-EXAMINATION OF HIS DRIVING ABILITY:</string>
+		<string>49. THE MINISTRY OF TRANSPORTATION AND COMMUNICATIONS MAY SUSPEND A LICENCE AFTER A 9 DEMERIT POINT INTERVIEW:</string>
+		<string>50. WHEN 15 OR MORE DEMERIT POINTS HAVE ACCUMULATED ON A RECORD THE DRIVER&apos;S LICENCE IS SUSPENDED:</string>
+		<string>51. AT 15 DEMERIT POINTS YOUR LICENCE IS SUSPENDED, AFTER 30 DAYS, THE NUMBER OF POINTS ON THE DRIVER&apos;S RECORD IS: </string>
+		<string>52. WHEN SELLING A MOTOR VEHICLE TO ANOTHER PERSON, YOU, THE SELLER, SHOULD:</string>
+		<string>53. YOU SHOULD, UNDER ALL CONDITION, DRIVE AT A SPEED WHICH WILL ALLOW YOU TO:</string>
+		<string>54. NEVER CHANGE LANES IN TRAFFIC WITHOUT:</string>
+		<string>55. HOW CLOSE TO A FIRE HYDRANT MAY YOU LEGALLY PARK?</string>
+		<string>56. MOST AUTOMOBILE SKIDS ARE THE RESULT OF:</string>
+		<string>57. PARKING LIGHTS MAY BE USED:</string>
+		<string>58. THE BEST WAY TO STOP QUICKLY ON A WET OR ICY ROADWAY IS TO:</string>
+		<string>59. WHEN DRIVING IN HEAVY FOG, YOU SHOULD USE:</string>
+		<string>60. BEFORE LEAVING YOUR CAR PARKED ON A DOWNGRADE, YOU SHOULD:</string>
+		<string>61. WHEN THE DRIVER OF ANOTHER VEHICLE IS ABOUT TO OVERTAKE AND PASS YOUR VEHICLE YOU MUST:</string>
+		<string>62. SHOULD YOUR RIGHT WHEELS DROP OFF THE ROADWAY, WHAT IS THE BEST WAY TO GET BACK ON THE ROADWAY?</string>
+		<string>63. YOU ARE REQUIRED TO KEEP A SAFE DISTANCE BEHIND THE VEHICLE IN FRONT OF YOU AT 50 KILOMETERS (30 MILES) AN HOUR, YOU SHOULD KEEP AT LEAST:</string>
+		<string>64. UNLESS OTHERWISE POSTED, THE MAXIMUM SPEED LIMIT ON THE HIGHWAY OUTSIDE OF A CITY, TOWN, VILLAGE OR BUILT-UP AREA IS:</string>
+		<string>65. BEFORE MOVING YOUR CAR FORM A PARKED POSITION, YOU SHOULD:</string>
+		<string>66. WHEN DESCENDING A STEEP HILL GOOD SAFE-DRIVING PRACTICE IS TO:</string>
+		<string>67. WHEN DRIVING A MOTOR VEHICLE ON THE HIGHWAY AT NIGHT, YOU SHOULD USE LOW BEAM HEADLIGHTS (DIM LIGHTS) WHEN:</string>
+		<string>68. IT IS MORE DANGEROUS TO DRIVE AT THE MAXIMUM SPEED LIMIT ST NIGHT THAN DURING DAY-TIME BECAUSE:</string>
+		<string>69. WHICH OF THE FOLLOWING HAND-AND-ARM SIGNALS IS CORRECT FOR SLOWING OR STOPPING?</string>
+		<string>70. AT NIGHT WHEN YOU MEET ANOTHER VEHICLE WITH BLINDING BRIGHT LIGHTS, THE SAFEST THING TO DO IS:</string>
+		<string>71. WHEN A CAR STOPS TO ALLOW A PEDESTRIAN TO CROSS THE STREET AT MARKED CROSSWALK, YOU SHOULD:</string>
+		<string>72. THE BROKEN CENTER LINE ON A ROADWAY MEANS YOU MAY:</string>
+		<string>73. EXCEPT WHEN YOU INTEND TO OVERTAKE AND PASS ANOTHER VEHICLE OR WHEN YOU INTEND TO MAKE A LEFT TURN, YOU SHOULD:</string>
+		<string>74. WHEN YOU ARE DECIDING WHETHER OR NOT TO MAKE A U TURN, YOUR FIRST CONSIDERATION SHOULD BE TO CHECK:</string>
+		<string>75. A SOLID CENTER LINE ON THE ROADWAY IS ON YOUR SIDE OF A BROKEN CENTER LINE, WHAT DOES THE SOLID CENTER LINE MEAN?</string>
+		<string>76. WHAT MUST A DRIVER DO BEFORE ENTERING A HIGHWAY FROM A PRIVATE ROAD OR DRIVEWAY?</string>
+		<string>77. IF YOU ARE DRIVING AND SUDDENLY ONE OF YOUR TIRES BLOWS OUT, YOU SHOULD:</string>
+		<string>78. WHEN A STREETCAR STOP TO PICK UP OR DISCHARGE PASSENGERS AND THERE IS A SAFETY ISLAND, WHAT DOES THE LAW REQUIRE YOU TO DO?</string>
+		<string>79. IF YOU ARE APPROACHING AN INTERSECTION AND TRAFFIC LIGHTS ARE NOT WORKING, YOU SHOULD:</string>
+		<string>80. FAILING TO STOP FOR A SCHOOL BUS THAT IS UNLOADING PASSENGERS WILL:</string>
+		<string>81. DEMERIT POINTS LOST WILL REMAIN ON YOUR DRIVER&apos;S RECORD FOR A PERIOD OF? , FROM THE DATE OF OFFENCE:</string>
+		<string>82. TO GET YOUR VEHICLE OUT OF A SKID, YOU SHOULD FIRST: (E.G. IF YOU’RE REAR WHEELS SUDDENLY SLIP TO THE RIGHT)</string>
+		<string>83. IF YOU LOSE CONTROL OF YOUR VEHICLE AND IT GOES OFF THE ROAD, YOU SHOULD:</string>
+		<string>84. AS A LEVEL ONE OR LEVEL TWO DRIVER, IF YOU COLLECT NINE OR MORE POINTS DURING A TWO-YEAR PERIOD, YOUR LICENCE WILL BE SUSPENDED FOR?</string>
+		<string>85. HIGHWAY 407 IS: </string>
+		<string>86. LEVEL ONE AND LEVEL TWO DRIVERS MUST HAVE A BLOOD ALCOHOL LEVEL OF ZERO WHEN DRIVING. NEW DRIVERS CAUGHT DRINKING AND DRIVING WILL BE CHARGED UNDER THE CRIMINAL CODE AND WILL GET HOW MANY DAYS SUSPENSION?</string>
+		<string>87. IF YOU ARE DRIVING AND YOU’RE CELLULAR PHONE RINGS, WHAT SHOULD YOU DO?</string>
+		<string>88. AS A LEVEL ONE (G1) DRIVER, YOU MUST BE ACCOMPANIED BY A CLASS G OR HIGHER LICENSED DRIVER, WHO HAS THE FOLLOWING DRIVING EXPERIENCE MORE THAN:</string>
+		<string>89. IF YOU ARE INVOLVED IN AN ACCIDENT THAT WAS DUE TO YOUR USE OF A CELLULAR PHONE WHILE DRIVING:</string>
+		<string>90. AS A LEVEL TWO (G2) DRIVERS YOUR ALCOHOL LEVEL MUST NOT BE OVEN:</string>
+		<string>91, SNOW TIRES ARE GOOD FOR:</string>
+		<string>92, UNDER THE HIGHWAY Traffic ACT, IF YOU ARE CONVICTED OF DRIVING WHILE YOUR LICENSE IS SUSPENDED, ASSUMING IT IS YOUR crest OFFENCE, YOU WILL:</string>
+		<string>93. THE POLICE HAVE THE RIGHT TO STOP ANY DRIVER THEY SUSPECT IS IMPAIRED. IF YOU REFUSE TO TAKE A BREATHALYZER TEST, YOUR LICENSE WILL BE SUSPENDED IMMEDIATELY FOR:</string>
+		<string>94. AS A LEVEL ONE OR LEVEL TWO DRIVERS YOU WILL HAVE YOUR LICENSE SUSPENDED IF YOU COLLECT 9 OR MORE DEMERIT POINTS DURING A TWO YEAR PERIOD. 60 DAYS AFTER SUSPENSION YOUR RECORD WILL BE REDUCED TO:</string>
+		<string>95. IF YOUR BRAKES FAIL: </string>
+		<string>96. LEVEL ONE DRIVERS (G1) MUST KEEP THEIR BLOOD ALCOHOL LEVEL AT ZERO PERCENT AND BE ACCOMPANIED BY A CLASS G DRIVER WITH A BLOOD ALCOHOL LEVEL OF LESS THAN:</string>
+		<string>97. UNDER THE CRIMINAL CODE, IF YOU ARE CAUGHT DRIVING  WHILE YOUR LICENCE IS SUSPENDED, YOUR VEHICLE WILL BE IMPOUNDED FOR? </string>
+		<string>98. IF SOMEONE IS TAILGATING YOU WHAT SHOULD YOU DO? </string>
+		<string>99. IF YOU WANT TO PASS A MOTORCYCLE, YOU SHOULD:</string>
+		<string>100. WHY IS IT NECESSARY TO CHECK OVER YOUR SHOULDER WHEN CHANGING LANES?</string>
+		<string>101. YOU MUST REPORT AN ACCIDENT TO THE POLICE UNDER ?</string>
+		<string>102. IF YOU ARE A TEENAGE DRIVER AGED 19 OR UNDER IN THE FIRST SIX MONTHS AFTER RECEIVING YOUR G2 LICENCE, HOW MANY TEENAGE PASSENGERS ARE YOU ALLOWED TO CARRY BETWEEN MIDNIGHT TO 5 A.M.?
+TEENAGE PASSENGERS ARE YOU ALLOWED TO CARRY BETWEEN MIDNIGHT TO 5 A.M.?</string>
+		<string>103. IF YOU ARE A TEENAGE DRIVER, AFTER SIX MONTHS WITH YOUR G2 LICENCE AND UNTIL YOU OBTAIN YOUR FULL G LICENCE OR TURN 20, HOW MANY TEENAGE PASSENGERS ARE YOU ALLOWED TO CARRY BETWEEN MIDNIGHT TO 5 A.M.?</string>
+		<string>104. THERE ARE SOME EXEMPTIONS FOR A TEENAGE G2 DRIVER, IF YOU ARE ACCOMPANIED BY A FULLY LICENSED DRIVER WITH AT LEAST-----YEARS OF DRIVING EXPERIENCE IN THE FRONT SEAT OR IF YOU’RE YOUNG PASSENGERS ARE MEMBERS OF YOUR IMMEDIATE FAMILY?</string>
+		<string>105. OVERDRIVING YOU’RE HEADLIGHTS AT NIGHT IS DANGEROUS BECAUSE: </string>
+	</array>
+</dict>
+</plist>
